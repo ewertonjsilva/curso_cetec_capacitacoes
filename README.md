@@ -1,2 +1,5 @@
-# curso_cetec_capacitacoes
- Curso rede git - gitHub - julho 2021
+# PRIMEIRO EXEMPLO COM GIT
+
+Capacitação desenvolvida pela CETEC Capacitações - Centro Paula Souza
+
+Realizada em Julho de 2021
